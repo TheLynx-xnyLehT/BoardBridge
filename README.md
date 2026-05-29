@@ -1,14 +1,11 @@
-# BoardBridge
+## BoardBridge
 A lightweight integration bridge connecting AutoDarts with Nakka N01 Web, enabling fully automated score synchronization between both platforms.
 
-<img width="511" height="553" alt="Zrzut ekranu 2026-05-29 165940" src="https://github.com/user-attachments/assets/68818ade-b084-45ef-b0cb-5eaee5fd277a" />
+<img width="511" height="553" alt="Zrzut ekranu 2026-05-29 165940" src="https://github.com/user-attachments/assets/68818ade-b084-45ef-b0cb-5eaee5fd277a" />  
 
-SCORING
-
+# SCORING  
 https://github.com/user-attachments/assets/32cddd22-2842-4a97-b9a3-3e4cb3097358
-
-CHECKOUTS
-
+# CHECKOUTS  
 https://github.com/user-attachments/assets/5d1e2662-250f-43bb-9a91-fb093ef64cf3
 
 <b>KEY FEATURES</b>
