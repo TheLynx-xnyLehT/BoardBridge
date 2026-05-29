@@ -1,4 +1,4 @@
-## BoardBridge 1.0.0
+## DARTS_BoardBridge 1.0.0
 A lightweight integration bridge connecting AutoDarts with Nakka N01 Web, enabling fully automated score synchronization between both platforms.
 
 <img width="511" height="553" alt="Zrzut ekranu 2026-05-29 165940" src="https://github.com/user-attachments/assets/68818ade-b084-45ef-b0cb-5eaee5fd277a" />  
